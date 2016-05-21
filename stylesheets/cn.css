@@ -1,0 +1,35 @@
+@charset "utf-8";
+a,b,body,button,dd,div,dl,dt,em,fieldset,form,h1,h2,h3,h4,h5,h6,html,i,iframe,img,input,label,legend,li,p,pre,span,strong,table,tbody,td,tfoot,th,thead,tr,ul {margin:0;padding:0;outline:0;border:0}
+h1,h2,h3,h4,h5,h6 {font-size:100%}
+body {font:12px/1.5 "Microsoft Yahei",SimSun}
+ul {list-style:none}
+a {text-decoration:none}
+a:hover {text-decoration:none}
+a,button {cursor:pointer}
+table {border-collapse:collapse;border-spacing:0}
+img,input,select {vertical-align:middle}
+.f-cf{zoom:1}.f-cf:after{clear:both;display:block;height:0;content:"";font-size:0;line-height:0}
+.f-fl{float:left;_display:inline}.f-fr{float:right;_display:inline}
+
+body {background-color:rgb(82, 86, 89);}
+.w1240 {width:1240px;margin:0 auto;}
+.wrap {background-color:#fff;}
+.wrap-l {width:400px;margin-right:20px;color:#636363;font-size:16px;}
+.wrap-r {width:800px;}
+
+.user-module .t {background-color:#76ba31;width:312px;height:56px;padding-left:60px;font:900 22px/56px "Microsoft Yahei";color:#fff;position:relative;}
+.user-module .c {padding:20px 0 60px 60px;line-height:30px;overflow:hidden;}
+.icon-arrow {width:0;height:0;border-left:28px solid #76ba31;border-bottom: 28px dashed transparent;border-top:28px dashed transparent;position:absolute;top:0;right:-28px;}
+
+.user {height:490px;text-align:center;overflow:hidden;}
+.user-avatar {width:220px;height:220px;margin:96px auto 0;display:block;padding:5px;border:1px solid #c6c6c6;border-radius:50%;}
+.user-name {font:900 36px/40px "Microsoft Yahei";color:#000;margin:10px auto;}
+
+.skill-tr {width:110px;display:block;text-align:left;}
+.skill-td {width:210px;height:12px;display:block;background-color:#e2e2e2;margin:9px auto;position:relative;border-radius:6px;}
+.skill-has-bg {height:12px;background-color:#cbcbcb;position:absolute;left:0;top:0;border-radius:6px 0 0 6px;}
+.skill-has-50 {width:70%;}
+.skill-has-60 {width:70%;}
+.skill-has-70 {width:70%;}
+.skill-has-80 {width:80%;}
+.skill-has-90 {width:90%;}
